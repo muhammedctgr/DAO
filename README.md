@@ -38,6 +38,16 @@ Transactions can actually be signed without being sent to the blockchain. What t
 
 It's important to be careful the the implementation of any off-chain features, if you introduce a centralized component, the decentrality of your DECENTRALIZED autonomous organization goes away.
 
+## Tools
+
+There are a number of no-code/low-code tools that can facilitate a DAO, services like DAO Stack, Aragon, Colony and DAO House can greatly assist in the operations side of running a DAO.
+
+Additional tools with more granular control and integrations include things like Snapshot which allows a team to glean sentiment of a community before execution while also including functionality to manage and execute proposals if desired. Other tools to check out include Zodiac a development library offered by Gnosis and our old friends OpenZeppelin. We'll be using the OZ library in our development for sure!
+
+Lastly, another "tool" I want to mention is Safe (previously Gnosis Safe), or really any multisig wallet solution. Any protocol is going to have some degree of centrality, especially as it first launches. A multisig wallet will decentralize control to some degree while a protocol grows into adopting fully decentralized governance.
+
+## In this Project
+
 1. We are going to have a contract controlled by a DAO
 2. Every transaction that the DAO wants to send has to be voted on
 3. We will use ERC20 tokens for voting 
