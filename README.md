@@ -2,7 +2,7 @@
 
 ## Decentralized Autonomous Organization
 
-It's not entirely accurate, but an easy way to think about a DAO is like a big company where all the actions of the company are decided upon by Immutable, Transparent, Decentralized voting mechanisms.
+An easy way to think about a DAO is like a big company where all the actions of the company are decided upon by Immutable, Transparent, Decentralized voting mechanisms.
 
 This affords the users of a system the power to control and direct how it evolves over time, instead of leaving this power in the hands of centralized control, behind closed doors.
 
